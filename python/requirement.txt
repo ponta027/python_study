@@ -1,3 +1,9 @@
 numpy
-torch
+torch==1.8.0
 scikit-learn
+pytorch-lightning==1.0.3
+tensorboard
+torchmetrics
+ax-platform
+matplotlib
+opencv-python

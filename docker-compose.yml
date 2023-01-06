@@ -4,6 +4,8 @@ services:
     build:
       context: ./python
     container_name: 'python3'
+      #    ports:
+      #      - 6006:6006
     working_dir: '/root/'
     tty: true
     volumes:
