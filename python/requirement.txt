@@ -7,3 +7,5 @@ torchmetrics
 ax-platform
 matplotlib
 opencv-python
+
+torchvision==0.9.1
